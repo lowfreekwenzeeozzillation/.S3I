@@ -1,2 +1,7 @@
-# .S3I
-all the Scream Tracker 3 instruments i've made. tested and confirmed to work with Scream Tracker 3 and Impulse Tracker.
+# lowfreekwenzeeozzillation - .S3I SAMPLE ARCHIVE
+**if you use these samples, you MUST credit me!** i have tested these samples in the following trackers:
+- Scream Tracker 3
+- Impulse Tracker
+- ModPlug Tracker
+- OpenMPT
+- Schism Tracker
